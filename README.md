@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steven
 - 👀 I’m interested in everything and anything
-- 🌱 I’m currently learning CS50: Introduction to Computer Science
+- 🌱 I’m currently learning CS50x: Introduction to Computer Science
 - 💞️ I’m looking to collaborate on building a start-up!
 - 📫 Email: s.liu0693@gmail.com
 <!---
